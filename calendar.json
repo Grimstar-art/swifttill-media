@@ -172,5 +172,81 @@
    "file": "posters/22-start-this-week.jpg",
    "caption": "Selling with SwiftTill this week, in 3 steps:\n1. Call or WhatsApp 0723 795 977 for a free demo\n2. We install it, load your products and train your staff\n3. Start selling\n\n#SwiftTill #POSKenya #KenyaBusiness #Mpesa #eTIMS #SmallBusinessKenya #Nairobi #RetailKenya #Duka #BiasharaYangu"
   }
- ]
+ ],
+ "stories": [
+  {
+   "type": "image",
+   "file": "posters/10-story-free-demo.jpg"
+  },
+  {
+   "type": "video",
+   "file": "videos/v1-mteja-analipa.mp4"
+  },
+  {
+   "type": "image",
+   "file": "posters/21-story-1800-a-month.jpg"
+  },
+  {
+   "type": "video",
+   "file": "videos/v2-small-leaks.mp4"
+  },
+  {
+   "type": "image",
+   "file": "posters/08-pick-your-size.jpg"
+  },
+  {
+   "type": "video",
+   "file": "videos/v3-scan-pay-done.mp4"
+  },
+  {
+   "type": "image",
+   "file": "posters/10-story-free-demo.jpg"
+  },
+  {
+   "type": "video",
+   "file": "videos/v4-why-swifttill.mp4"
+  },
+  {
+   "type": "image",
+   "file": "posters/21-story-1800-a-month.jpg"
+  },
+  {
+   "type": "video",
+   "file": "videos/v5-clear-prices.mp4"
+  },
+  {
+   "type": "image",
+   "file": "posters/20-six-reasons.jpg"
+  },
+  {
+   "type": "video",
+   "file": "videos/v6-why-so-cheap.mp4"
+  },
+  {
+   "type": "image",
+   "file": "posters/10-story-free-demo.jpg"
+  },
+  {
+   "type": "video",
+   "file": "videos/v7-which-plan.mp4"
+  },
+  {
+   "type": "image",
+   "file": "posters/21-story-1800-a-month.jpg"
+  },
+  {
+   "type": "video",
+   "file": "videos/v8-first-year.mp4"
+  },
+  {
+   "type": "image",
+   "file": "posters/14-monthly-or-yearly.jpg"
+  },
+  {
+   "type": "video",
+   "file": "videos/v9-monthly-or-yearly.mp4"
+  }
+ ],
+ "stories_rule": "story index = (days since start_date) mod len(stories); one Instagram story per day; stories have no caption",
+ "facebook_page_id": "1457539900780122"
 }
